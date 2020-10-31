@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: tomato;
+  padding: 20px 20px;
+  color: white;
+}
+
+form {
+  display: flex;
+}
+form input {
+  display: none;
+}
+
+.container {
+  margin: 20px 0 0 0;
+}
+.container .images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.error {
+  display: block;
+  color: red;
+}

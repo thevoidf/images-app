@@ -1,0 +1,9 @@
+.image {
+  max-width: 400px;
+  flex: 1 0 21%;
+  margin: 0 10px;
+}
+
+.image img {
+  width: 100%;
+}
